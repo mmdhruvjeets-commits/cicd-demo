@@ -94,3 +94,4 @@ C:\DS\Proj\CiCdDemo\obj\Debug\net9.0\refint\CiCdDemo.dll
 C:\DS\Proj\CiCdDemo\obj\Debug\net9.0\CiCdDemo.pdb
 C:\DS\Proj\CiCdDemo\obj\Debug\net9.0\CiCdDemo.genruntimeconfig.cache
 C:\DS\Proj\CiCdDemo\obj\Debug\net9.0\ref\CiCdDemo.dll
+C:\DS\Proj\CiCdDemo\obj\Debug\net9.0\CiCdDemo.sourcelink.json
